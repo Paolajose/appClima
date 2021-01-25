@@ -1,0 +1,46 @@
+body{
+    background: url(cielo.jpg);
+    background-size: 100vw 100vh;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.container{
+    align-content: center;
+    width: 800px;
+    margin: 600px;
+    background: rgba(49, 90, 167, 0.5);
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    border-radius: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.principal{
+    background: rgba(49, 90, 167, 0.5);
+}
+
+.form-select{
+    display: flex;
+    text-align-last: center;
+    width: 450px;
+    margin:auto;
+    background: rgba(245, 223, 238, 0.7);
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin: 100px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+}
